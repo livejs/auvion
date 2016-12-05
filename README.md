@@ -1,8 +1,8 @@
-# Audion
+# Auvion
 ###### An AudioVisualization Playground for the Web
-Audion is an interactive playground for experiementing with web-based audio, visuals and audiovisuals. Hurray!
+Auvion is an interactive playground for experiementing with web-based audio, visuals and audiovisuals. Hurray!
 
 
-## How to use Audion
+## How to use Auvion
 
-Audion is not built yet, so you can't use it `:(`
+Auvion is not built yet, so you can't use it `:(`
